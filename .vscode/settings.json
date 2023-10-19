@@ -18,5 +18,8 @@
     "titleBar.inactiveBackground": "#8985d299",
     "titleBar.inactiveForeground": "#15202b99"
   },
-  "peacock.color": "#8985d2"
+  "peacock.color": "#8985d2",
+  "cSpell.words": [
+    "Codio"
+  ]
 }
