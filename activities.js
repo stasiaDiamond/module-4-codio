@@ -36,7 +36,7 @@ function getArrayLength(arr) {
 function incrementByOne(arr) {
   // arr is an array of integers(numbers), Increment all items in the array by
   // * typo in the instruction's comment above. Look to function's name for a clue. 
-  // * Is typo omitted to make this difficult or was it an honest mistake?
+  // * was typo omitted to be tricksy or was it an honest mistake?
   // * if mistake, please fix
   for (let i = 0; i < arr.length; i++) {
     // return the array
@@ -81,6 +81,11 @@ if (typeof module !== 'undefined') {
     addItemToFront,
   };
 }
+// ------ Challenges Encountered -------
+// * no challenges, just 2 gripes:
+// * the placement of returnLast() before getArrayLength() 
+// * suspicion about line 37's omission
+
 
 
 // ------- TASK 02: First Array in Memory pt 2 -------
