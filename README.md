@@ -10,4 +10,4 @@ This additional work has helped me. Perhaps I can help others
 
 ## Spot Something Wrong?
 
-Feel free to reach out if you spot something I did incorrectly. I love to learn and grow!
+Feel free to reach out if you spot something I coded incorrectly. I love to learn and grow!
