@@ -1,4 +1,4 @@
-// *** --- comments prefaced by an asterisk (*) are my own, not part of curriculum --- ***
+// *** --- comments prefaced by an asterisk (*) or lots o' lines (------) are my own, not part of curriculum --- ***
 
 
 // ------- TASK 01: First Array in Memory pt 1-------
@@ -112,6 +112,9 @@ console.log('results', wordsToSentence(['hey', 'there']));
 //don't change this line
 module.exports = { wordsToSentence };
 
+// ------ Challenges Encountered -------
+// * none
+
 
 
 
@@ -170,8 +173,8 @@ module.exports = compareCities;
 // ------ Challenges Encountered -------
 // * read the instructions incorrectly, oops! 
 // * i am comparing only the Keys to each other
-// * i should have compared the key/value pairs
-// * in that case, the "for...of" in the Solution File is appropriate
+// * i should have compared the complete key/value pairs
+// * in that case, the "for...of" from the Solution File is appropriate
 
 
 
